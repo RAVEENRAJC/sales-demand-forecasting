@@ -1,0 +1,9 @@
+pip install -r requirements.txt
+pandas 
+numpy
+matplotlib.pyplot 
+seaborn as sns
+xgboost as xgb
+sklearn.model_selection 
+sklearn.metrics 
+mean_squared_error
